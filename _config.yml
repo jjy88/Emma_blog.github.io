@@ -53,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+url: "https://jjy88.github.io"
+baseurl: "" # leave empty for user site, or set for project sites
